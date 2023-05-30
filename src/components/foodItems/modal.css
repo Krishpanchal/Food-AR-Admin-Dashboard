@@ -1,0 +1,14 @@
+form {
+  display: flex;
+  flex-direction: column;
+  width: 90%;
+  gap: 1rem;
+}
+
+form input {
+  padding: 1.2rem 2.4rem;
+  background-color: #f1f3f5;
+  outline: none;
+  border: 1px solid #adb5bd;
+  border-radius: 5px;
+}
